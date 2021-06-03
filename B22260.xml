@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three ordinances of the Lords and Commons assembled in Parliament containing the names of divers knights and gentlemen to be added to the committees in the counties of Kent and Suffex for the weekly assessments and for the seizing and sequestration of papists estates and other notorions delinquens for the use of the Parliament : also another ordinance of both Houses, concerning some voluntiers lately sent from the associate counties of Essex, Suffolke, Norfolke, Cambridge, &amp;c which forces are to be maintained with the money raised upon the late ordinance for assessing in the said counties.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22260</idno><idno type="EEBO-CITATION">12179783</idno>
+  <idno type="VID">197257</idno>
+  <idno type="EEBO-PROQUEST">2240965081</idno>
+  
+            <idno type="STC">Wing E2360</idno>
+            <idno type="OCLC">12179783</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197257)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E102, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three ordinances of the Lords and Commons assembled in Parliament containing the names of divers knights and gentlemen to be added to the committees in the counties of Kent and Suffex for the weekly assessments and for the seizing and sequestration of papists estates and other notorions delinquens for the use of the Parliament : also another ordinance of both Houses, concerning some voluntiers lately sent from the associate counties of Essex, Suffolke, Norfolke, Cambridge, &amp;c which forces are to be maintained with the money raised upon the late ordinance for assessing in the said counties.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 19, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197257:1"/>
+            <p>THREE ORDINANCES OF THE LORDS and COMMONS Assembled in Parliament. Containing the names of divers Knights and Gentlemen, to be added to the Committees in the Counties of <hi>Kent</hi> and <hi>Sussex,</hi> for the weekly assessements, and for the leizing and sequestration of Papists estates, and other notorions Delinquens, for the use of the Parliament. Also, another Ordinance of both Houses, concerning some Voluntiers lately sent from the Associate Counties of <hi>Essex, Suffolke, Norfolke, Cam<g ref="char:EOLhyphen"/>bridge,</hi> &amp;c. which Forces are to be maintained with the money raised upon the late Ordinance for assessing in the said Counties.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Jovis, 18 Maii. 1643.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>ORdered by the Lords and Commons assembled in Par<g ref="char:EOLhyphen"/>liament, that these Ordinances shalbe forthwith prin<g ref="char:EOLhyphen"/>ted and published.</hi>
+                           </p>
+                           <closer>
+                              <signed>Io. Browne Cler. Parliamentorum.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, <hi>May</hi> 19. 1643.</p>
+            <pb facs="tcp:197257:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197257:2"/>
+            <head>
+               <hi>Die Jovis,</hi> 18 <hi>Maii.</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day ordered by the Lords and Commons, that Sir <hi>Edward Patricke,</hi> Sir <hi>Norton Knachebull,</hi> Sir <hi>Thomas Peyton,</hi> Sir <hi>Francis Barnham</hi> be added so the Committees named in the Ordinances for the weekely assessements, for sequestrati<g ref="char:EOLhyphen"/>ons, and for assessing such as have not con<g ref="char:EOLhyphen"/>tributed, or not in proportion to their estates, in the County of <hi>Kent,</hi> and that they shall have as full and ample power to all intents and purpose, as the other Committees, named in the said Ordinances, have, might, or ought to have; and that the said persons be enjoyned forthwith to goe downe into the County of <hi>Kent,</hi> to put the said Ordi<g ref="char:EOLhyphen"/>nances in execution.</p>
+            <closer>
+               <signed>J. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197257:3"/>
+            <head>
+               <hi>Die Jovis</hi> 18. <hi>Maii.</hi> 1643.</head>
+            <p>WHereas in the Ordinance of both Houses of Parliament, for the seizing and sequestring of the estates of certaine kinds of notorious Delinquents, for the maintenance of the Army raised by the Parliament; The Names of divers Persons were omitted to be a Committee for the County of <hi>Sus<g ref="char:EOLhyphen"/>sex, viz.</hi> Sir <hi>John Chapman</hi> Knight, <hi>Anthony Fowle, Lawrence Ashburnham, Thomas Middleton, Peter Farn<g ref="char:EOLhyphen"/>den.</hi> Sir <hi>William Culpepper</hi> Baronet, <hi>William Mi<g ref="char:EOLhyphen"/>chelbourne, John Busbridge, Stephen Humphrey, Tho<g ref="char:EOLhyphen"/>mas Collins,</hi> Captain <hi>Carleton,</hi> Captaine <hi>Everden, Edward Higgons, William Cawley,</hi> and <hi>Robert Spence.</hi> Be it therefore Ordained by the Lords and Commons in Parliament assembled, That the parties before na<g ref="char:EOLhyphen"/>med shall be added to the said Committee for sequestring Malignants Estates in the said County of <hi>Sussex,</hi> and that they shall have as full and ample power to all in<g ref="char:EOLhyphen"/>tents as the other Committees named in the said Or<g ref="char:EOLhyphen"/>dinance have, might, or ought to have.</p>
+            <closer>
+               <signed>John Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197257:3"/>
+            <head>
+               <hi>Die Jovis</hi> 18. <hi>Maii</hi> 1643.</head>
+            <p>IT is this day Ordered by the Lords and Commons in Parliament assembled, That Sir <hi>William Go<g ref="char:EOLhyphen"/>ring</hi> Baronet, Sir <hi>Thomas Parker,</hi> Sir <hi>Thomas Henley,</hi> Sir <hi>Thomas Eversfield</hi> Knights, <hi>Iohn Alford, Henry Goring, Thomas Sherley, Edward Goring, Tho<g ref="char:EOLhyphen"/>mas Challoner, Henry Shelley, Henry Peck, Francis Sellwyn, Herbert Board, Nicholas Gildrege, Iohn Board, George Churcher, William Hay, Henry Bridger, Tho<g ref="char:EOLhyphen"/>mas Anscombe, William Marlot, Thomas Ieffery, Wil<g ref="char:EOLhyphen"/>liam Thomas</hi> Esquires, be added to the Committees named in the Ordinances for the weekly Assessements, and for seizing and sequestring the Estates of Papists, notorious Delinquents, &amp;c. in the County of <hi>Sussex;</hi> and that they shall have as full and ample power to all Intents, as the other Committees named in the said Ordinances, have, might, or ought to have.</p>
+            <closer>
+               <signed>Io. Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197257:4"/>
+            <head>
+               <hi>Die Jovis,</hi> 18 <hi>Maii.</hi> 1643.</head>
+            <p>WHereas the Lords and Commons in this present Parliament have made an Ordinance for the speedy raising and leavying of money throughout the Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> for the reliefe of the Common<g ref="char:EOLhyphen"/>wealth, by taxing such as have not at all contributed or lent, or not according to their estates and abilities: And whereas the Associate-Counties of <hi>Essex, Suffolke, Nor<g ref="char:EOLhyphen"/>folke, Cambridge,</hi> Isle of <hi>Ely, Hertford,</hi> and County of the City of <hi>Norwich,</hi> out of their good and ready affections have lately sent Forces with Armes Powder, Bullet, and o<g ref="char:EOLhyphen"/>ther Ammunition out of their several Coun<g ref="char:EOLhyphen"/>ties, for the defence of the King, Parliament, and Kingdome, which they have paid with all the Officers belonging to the said Forces, for two moneths, but having many charges lying upon them, cannot pay the said Forces
+<pb facs="tcp:197257:4"/> and Officers any longer without their great impoverishment: The said Lords and Commons doe therefore ordaine, that such summe and summes of money as are and shall be assessed upon such person and persons as are of ability and have not con<g ref="char:EOLhyphen"/>tributed and lent, and have contributed and lent, yet not according to their abilities by vertue of the said Ordinance in the said re<g ref="char:EOLhyphen"/>spective Counties, shall be imploied to the use and for the maintaining of the said Forces sent out of the said Counties re<g ref="char:EOLhyphen"/>spectively: And that all such summes of mo<g ref="char:EOLhyphen"/>ney so assessed and rated as aforesaid, as shall be received by the Collectors nominated for that purpose shall be paid by the said Col<g ref="char:EOLhyphen"/>lectors to such Treasurers as shall be ap<g ref="char:EOLhyphen"/>pointed by the Committees named in the said Ordinance in their respective Counties, or any three or more of them, And that the said Treasurers shall dispose of the same to the use aforesaid upon warrant directed to them under the hands of the Lieutenant or Deputy-Lieutenants of the said respective Counties, or any two or more of them.</p>
+            <closer>
+               <signed>Io. Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
